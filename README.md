@@ -1,4 +1,4 @@
-Currently consulting and building IoT prototypes @C2T3.
+Currently consulting and building IoT prototypes freelance-ish.
 
 Unprofessionally, I'm obsessively writing and re-writing my Linux .dotfiles.
 
