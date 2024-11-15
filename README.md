@@ -1,6 +1,4 @@
-Currently consulting and building IoT prototypes freelance-ish.
-
-Unprofessionally, I'm obsessively writing and re-writing my Linux .dotfiles.
+Professionally doing software for IoT projects.
 
 <!---
 danielcoupal/danielcoupal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
